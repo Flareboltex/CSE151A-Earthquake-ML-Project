@@ -5,9 +5,11 @@
 3. Kanishka Katragadda    
 4. Sankalp Kumaraswamy<br><br>
 
-**Data Download Link**
+**Links**
 
-[Earthquake Dataset Kaggle](https://www.kaggle.com/datasets/antoniocola/earthquake-perception-dataset)
+[Data Download Link](https://www.kaggle.com/datasets/antoniocola/earthquake-perception-dataset)
+
+[Jupyter Notebook Link](https://colab.research.google.com/drive/18wviw9PHky41dNvtAJUs4lkZ43YkiXUk?usp=sharing)
 
 **Initial Preprocessing**
 
