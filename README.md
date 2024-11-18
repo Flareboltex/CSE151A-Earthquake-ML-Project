@@ -20,7 +20,9 @@ In Milestone 3, we conducted extensive preprocessing on our Earthquake dataset t
 
 The dataset consisted predominantly of categorical features, which were converted into numerical data using One-Hot Encoding. This transformation created new binary columns for each category within a feature, assigning values of 0 or 1 based on the encoding. This step ensured that categorical data could be effectively utilized by our model.
 
+Because our One-Hot Encoding lead to a lot of NAN columns, we opted to drop the NAN columns to further reduce noise and number of features.
+
 Then, when had to deal with missing/null values within our dataset. We were considering either using mean/modal values to fill up the null data, or completely removing the rows with null data. We realized that since our features are binary, filling them up modal/mean values may not be the best approach. We also noticed that the null valued rows constituted a relatively small percentage of the total, so we decided on removing said rows from our dataset completely.
 
-Next, we implemented a linear regression model, splitting the data into training (80%) and testing (20%) sets. The model was trained on the training set and evaluated on the testing set. Key metrics were calculated to assess performance, including the R-squared scores and the mean squared errors (MSE) for both training and testing predictions. These metrics provided insight into the model's accuracy and its ability to generalize to unseen data.
+Next, we implemented a linear regression model, splitting the data into training (80%) and testing (20%) sets. The model was trained on the training set and evaluated on the testing set. Key metrics were calculated to assess performance, including the R-squared scores and the mean squared errors (MSE) for both training and testing predictions. These metrics provided insight into the model's accuracy and its ability to generalize to unseen data. Using these metrics we determined that our model was overfitting, and we picked out a couple other models we might like to use in the future.
 
