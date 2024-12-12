@@ -1,9 +1,10 @@
 # CSE151A-Earthquake-ML-Project
 **Group members**
-1. Brandon Rogers 
-2. Girma Terfa 
-3. Kanishka Katragadda    
-4. Sankalp Kumaraswamy<br><br>
+1. Girma Terfa
+2. Kanishka Katragadda
+3. Sankalp Kumaraswamy
+4. Brandon Rogers (dropped)<br><br>
+
 
 **Links**
 
