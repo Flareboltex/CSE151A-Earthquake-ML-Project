@@ -12,6 +12,7 @@
 [Jupyter Notebook Link](https://colab.research.google.com/drive/18wviw9PHky41dNvtAJUs4lkZ43YkiXUk?usp=sharing)
 
 **Introduction**
+
 The issue of post-seismic stress is a unique and interesting topic that can bring light to issues faced by survivors of disasters around the world. We aim to analyze the data gathered from subjects living in the Campi Flegrei area in Italy which is subject to frequent earthquakes and build machine learning models to predict certain psychological impacts. Performing exploratory data analysis can provide insights into this issue and building predictive models can assist with providing assistance and intervention for those struggling psychologically following seismic activity. Projects like these represent contributions to the understanding of earthquake-induced stress and provide a foundation for further research on mitigating the impact on exposed populations. 
 
 **Initial Preprocessing**
